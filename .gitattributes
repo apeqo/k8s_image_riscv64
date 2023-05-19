@@ -1,0 +1,10 @@
+k8s_image/coredns_image/coredns filter=lfs diff=lfs merge=lfs -text
+k8s_image/etcd_image/etcd filter=lfs diff=lfs merge=lfs -text
+k8s_image/etcd_image/etcdctl filter=lfs diff=lfs merge=lfs -text
+k8s_image/etcd_image/etcdutl filter=lfs diff=lfs merge=lfs -text
+k8s_image/kube-apiserver_image/kube-apiservere filter=lfs diff=lfs merge=lfs -text
+k8s_image/kube-controller-manager_image/kube-controller-manager filter=lfs diff=lfs merge=lfs -text
+k8s_image/kube-proxy_image/kube-proxy filter=lfs diff=lfs merge=lfs -text
+k8s_image/kube-scheduler_image/kube-scheduler filter=lfs diff=lfs merge=lfs -text
+k8s_image/pause_image/pause filter=lfs diff=lfs merge=lfs -text
+k8s_image/kube-apiserver_image/kube-apiserver filter=lfs diff=lfs merge=lfs -text
